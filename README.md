@@ -1,0 +1,1 @@
+Uses the `uv` [package manager](https://github.com/astral-sh/uv) to handle creating a virtual env, adding dependencies, and running scripts. Once `uv` is installed, you can run `uv venv` and then `uv sync` to set up a virtual environment and install all the necessary packages.
