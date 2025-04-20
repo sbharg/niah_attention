@@ -14,3 +14,9 @@ dependencies = [
     "torch>=2.6.0",
     "transformers>=4.51.3",
 ]
+
+[tool.ruff]
+# Same as Black.
+line-length = 88
+indent-width = 4
+
