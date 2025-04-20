@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+matplotlib
+seaborn
+pandas
+huggingface_hub
